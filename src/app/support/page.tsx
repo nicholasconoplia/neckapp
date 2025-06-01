@@ -9,7 +9,7 @@ export default function Support() {
         <div className="bg-white shadow rounded-lg p-6 mb-8">
           <h2 className="text-xl font-semibold text-gray-900 mb-4">Contact Support</h2>
           <p className="text-gray-600 mb-4">
-            We're here to help! For any questions, concerns, or technical support, please reach out to our dedicated support team:
+            We&apos;re here to help! For any questions, concerns, or technical support, please reach out to our dedicated support team:
           </p>
           <div className="bg-blue-50 p-4 rounded-md">
             <p className="text-blue-700">
@@ -24,7 +24,7 @@ export default function Support() {
             <div>
               <h3 className="font-medium text-gray-900">How do I reset my progress?</h3>
               <p className="mt-2 text-gray-600">
-                You can reset your progress in the app settings under "User Data".
+                You can reset your progress in the app settings under &ldquo;User Data&rdquo;.
               </p>
             </div>
             <div>

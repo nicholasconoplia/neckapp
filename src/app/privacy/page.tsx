@@ -22,7 +22,7 @@ export default function Privacy() {
               </p>
               <ul className="list-disc pl-5 text-gray-600">
                 <li>Create an account</li>
-                <li>Use the app's features</li>
+                <li>Use the app&apos;s features</li>
                 <li>Contact us for support</li>
                 <li>Track your exercise progress</li>
               </ul>
@@ -62,7 +62,7 @@ export default function Privacy() {
           <section>
             <h2 className="text-xl font-semibold text-gray-900 mb-4">Changes to This Privacy Policy</h2>
             <p className="text-gray-600">
-              We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+              We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the &ldquo;Last updated&rdquo; date.
             </p>
           </section>
 
