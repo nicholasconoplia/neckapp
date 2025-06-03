@@ -1,5 +1,4 @@
 import { BeakerIcon, BookOpenIcon, ChartBarIcon } from '@heroicons/react/24/outline'
-import Link from 'next/link'
 import Header from './components/Header'
 import Footer from './components/Footer'
 

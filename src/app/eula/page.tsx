@@ -42,7 +42,7 @@ export default function EULA() {
               <ul className="list-disc list-inside text-gray-600 space-y-2">
                 <li>Subscriptions automatically renew unless cancelled</li>
                 <li>Payment will be charged at confirmation of purchase</li>
-                <li>Subscriptions can be managed in your device's account settings</li>
+                <li>Subscriptions can be managed in your device&apos;s account settings</li>
                 <li>No refund for unused portion upon cancellation</li>
               </ul>
             </section>
@@ -71,7 +71,7 @@ export default function EULA() {
             <section>
               <h2 className="text-xl font-semibold text-gray-900 mb-4">7. Disclaimer of Warranty</h2>
               <p className="text-gray-600">
-                The app is provided "as is" without warranties of any kind. We do not guarantee that the app will be error-free or uninterrupted.
+                The app is provided &quot;as is&quot; without warranties of any kind. We do not guarantee that the app will be error-free or uninterrupted.
               </p>
             </section>
 
